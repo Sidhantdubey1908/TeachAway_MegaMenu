@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="368.737">
+<testcase classname="Validate TeachAway MegaMenu" name="Validate TeachAway Jobs Tab" time="84.627">
+<system-out><![CDATA[Given User is on the Teachaway Home page....................................passed
+Given User is displayed with All MegaMenu option Jobs, TEFL, TeachersCertification, Courses, HireTeachers.passed
+Then User clicks on Jobs Tab and Jobs options are displayed.................passed
+And User is able to click on one of the options under Jobs tab..............passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate TeachAway MegaMenu" name="Validate TeachAway Tefl Tab" time="50.107">
+<system-out><![CDATA[Given User is on the Teachaway Home page....................................passed
+Given User is displayed with All MegaMenu option Jobs, TEFL, TeachersCertification, Courses, HireTeachers.passed
+Then User clicks on Tefl Tab and Tefl options are displayed.................passed
+And User is able to click on one of the options under TEFL tab..............passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate TeachAway MegaMenu" name="Validate TeachAway Teachers Certification Tab" time="96.489">
+<system-out><![CDATA[Given User is on the Teachaway Home page....................................passed
+Given User is displayed with All MegaMenu option Jobs, TEFL, TeachersCertification, Courses, HireTeachers.passed
+Then User clicks on Teachers Certification Tab and Teachers Certification options are displayed.passed
+And User is able to click on one of the options under Teachers Certification tab.passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate TeachAway MegaMenu" name="Validate TeachAway Courses Tab" time="51.871">
+<system-out><![CDATA[Given User is on the Teachaway Home page....................................passed
+Given User is displayed with All MegaMenu option Jobs, TEFL, TeachersCertification, Courses, HireTeachers.passed
+Then User clicks on Courses Tab and Courses page is displayed...............passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate TeachAway MegaMenu" name="Validate TeachAway HireTeachers Tab" time="84.88">
+<system-out><![CDATA[Given User is on the Teachaway Home page....................................passed
+Given User is displayed with All MegaMenu option Jobs, TEFL, TeachersCertification, Courses, HireTeachers.passed
+Then User clicks on HireTeachers Tab and HireTeachers page is displayed.....passed
+]]></system-out>
+</testcase>
+</testsuite>
